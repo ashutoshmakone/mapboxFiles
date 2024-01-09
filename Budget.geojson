@@ -1,0 +1,2981 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.132217,-14.270972 ]
+    },
+    "properties": {
+    "country":"AS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.777671,-21.236736 ]
+    },
+    "properties": {
+    "country":"CK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.406843,-17.679742 ]
+    },
+    "properties": {
+    "country":"PF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.867233,-19.054445 ]
+    },
+    "properties": {
+    "country":"NU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.439308,-24.703615 ]
+    },
+    "properties": {
+    "country":"PN",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.104629,-13.759029 ]
+    },
+    "properties": {
+    "country":"WS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.855881,-8.967363 ]
+    },
+    "properties": {
+    "country":"TK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.198242,-21.178986 ]
+    },
+    "properties": {
+    "country":"TO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.64933,-7.109535 ]
+    },
+    "properties": {
+    "country":"TV",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.156097,-13.768752 ]
+    },
+    "properties": {
+    "country":"WF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.793731,13.444304 ]
+    },
+    "properties": {
+    "country":"GU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.734039,-3.370417 ]
+    },
+    "properties": {
+    "country":"KI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.184478,7.131474 ]
+    },
+    "properties": {
+    "country":"MH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.550812,7.425554 ]
+    },
+    "properties": {
+    "country":"FM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.931503,-0.522778 ]
+    },
+    "properties": {
+    "country":"NR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.38469,17.33083 ]
+    },
+    "properties": {
+    "country":"MP",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.58252,7.51498 ]
+    },
+    "properties": {
+    "country":"PW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.775136,-25.274398 ]
+    },
+    "properties": {
+    "country":"AU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.690449,-10.447525 ]
+    },
+    "properties": {
+    "country":"CX",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.870956,-12.164165 ]
+    },
+    "properties": {
+    "country":"CC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.504158,-53.08181 ]
+    },
+    "properties": {
+    "country":"HM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.885971,-40.900557 ]
+    },
+    "properties": {
+    "country":"NZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.954712,-29.040835 ]
+    },
+    "properties": {
+    "country":"NF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.414413,-16.578193 ]
+    },
+    "properties": {
+    "country":"FJ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.618042,-20.904305 ]
+    },
+    "properties": {
+    "country":"NC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95555,-6.314993 ]
+    },
+    "properties": {
+    "country":"PG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.156194,-9.64571 ]
+    },
+    "properties": {
+    "country":"SB",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.959158,-15.376706 ]
+    },
+    "properties": {
+    "country":"VU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071389,-75.250973 ]
+    },
+    "properties": {
+    "country":"AQ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75737,32.321384 ]
+    },
+    "properties": {
+    "country":"BM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.346771,56.130366 ]
+    },
+    "properties": {
+    "country":"CA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.604303,71.706936 ]
+    },
+    "properties": {
+    "country":"GL",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.27111,46.941936 ]
+    },
+    "properties": {
+    "country":"PM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.712891,37.09024 ]
+    },
+    "properties": {
+    "country":"US",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "country":"KZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "country":"KG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "country":"TJ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278,38.969719 ]
+    },
+    "properties": {
+    "country":"TM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "country":"UZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "country":"BY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "country":"BG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472962,49.817492 ]
+    },
+    "properties": {
+    "country":"CZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "country":"HU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369885,47.411631 ]
+    },
+    "properties": {
+    "country":"MD",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145136,51.919438 ]
+    },
+    "properties": {
+    "country":"PL",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943161 ]
+    },
+    "properties": {
+    "country":"RO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.318756,61.52401 ]
+    },
+    "properties": {
+    "country":"RU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699024,48.669026 ]
+    },
+    "properties": {
+    "country":"SK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "country":"UA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "country":"AT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "country":"BE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "country":"FR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "country":"DE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.555373,47.166 ]
+    },
+    "properties": {
+    "country":"LI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "country":"LU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.412841,43.750298 ]
+    },
+    "properties": {
+    "country":"MC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "country":"NL",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227512,46.818188 ]
+    },
+    "properties": {
+    "country":"CH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3711715,60.1995487 ]
+    },
+    "properties": {
+    "country":"AX",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "country":"DK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595272 ]
+    },
+    "properties": {
+    "country":"EE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.911806,61.892635 ]
+    },
+    "properties": {
+    "country":"FO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "country":"FI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.585278,49.465691 ]
+    },
+    "properties": {
+    "country":"GG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.963051 ]
+    },
+    "properties": {
+    "country":"IS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.24389,53.41291 ]
+    },
+    "properties": {
+    "country":"IE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.548056,54.236107 ]
+    },
+    "properties": {
+    "country":"IM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13125,49.214439 ]
+    },
+    "properties": {
+    "country":"JE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "country":"LV",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "country":"LT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "country":"NO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.670272,77.553604 ]
+    },
+    "properties": {
+    "country":"SJ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "country":"SE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "country":"GB",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.601554,42.546245 ]
+    },
+    "properties": {
+    "country":"AD",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076,43.915886 ]
+    },
+    "properties": {
+    "country":"BA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "country":"HR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.345374,36.137741 ]
+    },
+    "properties": {
+    "country":"GI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "country":"GR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.453389,41.902916 ]
+    },
+    "properties": {
+    "country":"VA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "country":"IT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "country":"MT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399872 ]
+    },
+    "properties": {
+    "country":"PT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.457777,43.94236 ]
+    },
+    "properties": {
+    "country":"SM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521 ]
+    },
+    "properties": {
+    "country":"RS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "country":"SI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74922,40.463667 ]
+    },
+    "properties": {
+    "country":"ES",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.659626,28.033886 ]
+    },
+    "properties": {
+    "country":"DZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.228331,26.3351 ]
+    },
+    "properties": {
+    "country":"LY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.885834,24.215527 ]
+    },
+    "properties": {
+    "country":"EH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "country":"HK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.252924,36.204824 ]
+    },
+    "properties": {
+    "country":"JP",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.510093,40.339852 ]
+    },
+    "properties": {
+    "country":"KP",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757 ]
+    },
+    "properties": {
+    "country":"KR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.543873,22.198745 ]
+    },
+    "properties": {
+    "country":"MO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960515,23.69781 ]
+    },
+    "properties": {
+    "country":"TW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.709953,33.93911 ]
+    },
+    "properties": {
+    "country":"AF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.356331,23.684994 ]
+    },
+    "properties": {
+    "country":"BD",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.433601,27.514162 ]
+    },
+    "properties": {
+    "country":"BT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22068,3.202778 ]
+    },
+    "properties": {
+    "country":"MV",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124008,28.394857 ]
+    },
+    "properties": {
+    "country":"NP",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "country":"LK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.727669,4.535277 ]
+    },
+    "properties": {
+    "country":"BN",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "country":"KH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.495496,19.85627 ]
+    },
+    "properties": {
+    "country":"LA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.956223,21.913965 ]
+    },
+    "properties": {
+    "country":"MM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "country":"SG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.992541,15.870032 ]
+    },
+    "properties": {
+    "country":"TH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927,40.143105 ]
+    },
+    "properties": {
+    "country":"AZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414 ]
+    },
+    "properties": {
+    "country":"BH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "country":"CY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356892,42.315407 ]
+    },
+    "properties": {
+    "country":"GE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051 ]
+    },
+    "properties": {
+    "country":"IL",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.481766,29.31166 ]
+    },
+    "properties": {
+    "country":"KW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.233154,31.952162 ]
+    },
+    "properties": {
+    "country":"PS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "country":"QA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.079162,23.885942 ]
+    },
+    "properties": {
+    "country":"SA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "country":"TR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818,23.424076 ]
+    },
+    "properties": {
+    "country":"AE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202692 ]
+    },
+    "properties": {
+    "country":"AO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "country":"BW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.876519,-6.343194 ]
+    },
+    "properties": {
+    "country":"IO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "country":"BF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.939444,6.611111 ]
+    },
+    "properties": {
+    "country":"CF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "country":"TD",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "country":"KM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.827659,-0.228021 ]
+    },
+    "properties": {
+    "country":"CG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.590275,11.825138 ]
+    },
+    "properties": {
+    "country":"DJ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.267895,1.650801 ]
+    },
+    "properties": {
+    "country":"GQ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.465866,-26.522503 ]
+    },
+    "properties": {
+    "country":"SZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.348557,-49.280366 ]
+    },
+    "properties": {
+    "country":"TF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "country":"GM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "country":"GN",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.180413,11.803749 ]
+    },
+    "properties": {
+    "country":"GW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404 ]
+    },
+    "properties": {
+    "country":"MU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.166244,-12.8275 ]
+    },
+    "properties": {
+    "country":"YT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "country":"MZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.536384,-21.115141 ]
+    },
+    "properties": {
+    "country":"RE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.030696,-24.143474 ]
+    },
+    "properties": {
+    "country":"SH",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.491977,-4.679574 ]
+    },
+    "properties": {
+    "country":"SC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.307,6.877 ]
+    },
+    "properties": {
+    "country":"SS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "country":"TG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "country":"ZW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.068615,18.220554 ]
+    },
+    "properties": {
+    "country":"AI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.796428,17.060816 ]
+    },
+    "properties": {
+    "country":"AG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "country":"AR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.968338,12.52111 ]
+    },
+    "properties": {
+    "country":"AW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39628,25.03428 ]
+    },
+    "properties": {
+    "country":"BS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.543198,13.193887 ]
+    },
+    "properties": {
+    "country":"BB",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "country":"BZ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.2385,12.1784 ]
+    },
+    "properties": {
+    "country":"BQ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.413194,-54.423199 ]
+    },
+    "properties": {
+    "country":"BV",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.566956,19.513469 ]
+    },
+    "properties": {
+    "country":"KY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "country":"CU",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.990021,12.16957 ]
+    },
+    "properties": {
+    "country":"CW",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "country":"DM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "country":"DO",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "country":"SV",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.523613,-51.796253 ]
+    },
+    "properties": {
+    "country":"FK",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.125782,3.933889 ]
+    },
+    "properties": {
+    "country":"GF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "country":"GD",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.067641,16.995971 ]
+    },
+    "properties": {
+    "country":"GP",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "country":"GT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.93018,4.860416 ]
+    },
+    "properties": {
+    "country":"GY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.285215,18.971187 ]
+    },
+    "properties": {
+    "country":"HT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "country":"HN",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "country":"JM",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.024174,14.641528 ]
+    },
+    "properties": {
+    "country":"MQ",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.187366,16.742498 ]
+    },
+    "properties": {
+    "country":"MS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "country":"PA",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "country":"PE",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "country":"PR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.833333,17.9 ]
+    },
+    "properties": {
+    "country":"BL",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "country":"KN",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "country":"LC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 63.0523,18.0826 ]
+    },
+    "properties": {
+    "country":"MF",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "country":"VC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 63.0548,18.0425 ]
+    },
+    "properties": {
+    "country":"SX",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -36.587909,-54.429579 ]
+    },
+    "properties": {
+    "country":"GS",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.027783,3.919305 ]
+    },
+    "properties": {
+    "country":"SR",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "country":"TT",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.797928,21.694025 ]
+    },
+    "properties": {
+    "country":"TC",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765835,-32.522779 ]
+    },
+    "properties": {
+    "country":"UY",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.639968,18.420695 ]
+    },
+    "properties": {
+    "country":"VG",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.896335,18.335765 ]
+    },
+    "properties": {
+    "country":"VI",
+    "budgetYear":2021,
+    "Country Budget":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "country":"BJ",
+    "budgetYear":2021,
+    "Country Budget":28270.23047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.918886,-3.373056 ]
+    },
+    "properties": {
+    "country":"BI",
+    "budgetYear":2021,
+    "Country Budget":14758.41016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.013197,16.002082 ]
+    },
+    "properties": {
+    "country":"CV",
+    "budgetYear":2021,
+    "Country Budget":265537.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "country":"CM",
+    "budgetYear":2021,
+    "Country Budget":545500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.758664,-4.038333 ]
+    },
+    "properties": {
+    "country":"CD",
+    "budgetYear":2021,
+    "Country Budget":36882.96875
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.54708,7.539989 ]
+    },
+    "properties": {
+    "country":"CI",
+    "budgetYear":2021,
+    "Country Budget":344298
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.782334,15.179384 ]
+    },
+    "properties": {
+    "country":"ER",
+    "budgetYear":2021,
+    "Country Budget":442474.2813
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.489673,9.145 ]
+    },
+    "properties": {
+    "country":"ET",
+    "budgetYear":2021,
+    "Country Budget":2851069.094
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "country":"GA",
+    "budgetYear":2021,
+    "Country Budget":573226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.023194,7.946527 ]
+    },
+    "properties": {
+    "country":"GH",
+    "budgetYear":2021,
+    "Country Budget":2029146.641
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "country":"KE",
+    "budgetYear":2021,
+    "Country Budget":705010.1504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.233608,-29.609988 ]
+    },
+    "properties": {
+    "country":"LS",
+    "budgetYear":2021,
+    "Country Budget":505450
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.428055 ]
+    },
+    "properties": {
+    "country":"LR",
+    "budgetYear":2021,
+    "Country Budget":2354533.311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "country":"MG",
+    "budgetYear":2021,
+    "Country Budget":946644.4351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254308 ]
+    },
+    "properties": {
+    "country":"MW",
+    "budgetYear":2021,
+    "Country Budget":51000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "country":"ML",
+    "budgetYear":2021,
+    "Country Budget":90983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.940835,21.00789 ]
+    },
+    "properties": {
+    "country":"MR",
+    "budgetYear":2021,
+    "Country Budget":305000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "country":"NA",
+    "budgetYear":2021,
+    "Country Budget":51000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "country":"NE",
+    "budgetYear":2021,
+    "Country Budget":250000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277,9.081999 ]
+    },
+    "properties": {
+    "country":"NG",
+    "budgetYear":2021,
+    "Country Budget":3757501.83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.873888,-1.940278 ]
+    },
+    "properties": {
+    "country":"RW",
+    "budgetYear":2021,
+    "Country Budget":39000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.613081,0.18636 ]
+    },
+    "properties": {
+    "country":"ST",
+    "budgetYear":2021,
+    "Country Budget":500085.7188
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "country":"SN",
+    "budgetYear":2021,
+    "Country Budget":1606793.875
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555 ]
+    },
+    "properties": {
+    "country":"SL",
+    "budgetYear":2021,
+    "Country Budget":3116136.699
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.199616,5.152149 ]
+    },
+    "properties": {
+    "country":"SO",
+    "budgetYear":2021,
+    "Country Budget":60000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "country":"ZA",
+    "budgetYear":2021,
+    "Country Budget":2917042.055
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "country":"TZ",
+    "budgetYear":2021,
+    "Country Budget":2263125.125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "country":"UG",
+    "budgetYear":2021,
+    "Country Budget":30000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "country":"ZM",
+    "budgetYear":2021,
+    "Country Budget":3302660.531
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "country":"AL",
+    "budgetYear":2021,
+    "Country Budget":85000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678 ]
+    },
+    "properties": {
+    "country":"ME",
+    "budgetYear":2021,
+    "Country Budget":100000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.745275,41.608635 ]
+    },
+    "properties": {
+    "country":"MK",
+    "budgetYear":2021,
+    "Country Budget":130000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "country":"EG",
+    "budgetYear":2021,
+    "Country Budget":4058102.23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "country":"MA",
+    "budgetYear":2021,
+    "Country Budget":913242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.217636,12.862807 ]
+    },
+    "properties": {
+    "country":"SD",
+    "budgetYear":2021,
+    "Country Budget":2155802.07
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "country":"TN",
+    "budgetYear":2021,
+    "Country Budget":190000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "country":"BO",
+    "budgetYear":2021,
+    "Country Budget":170000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "country":"BR",
+    "budgetYear":2021,
+    "Country Budget":64823
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "country":"CL",
+    "budgetYear":2021,
+    "Country Budget":117000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "country":"CO",
+    "budgetYear":2021,
+    "Country Budget":1670609
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "country":"CR",
+    "budgetYear":2021,
+    "Country Budget":17936.35938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "country":"EC",
+    "budgetYear":2021,
+    "Country Budget":1152642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "country":"MX",
+    "budgetYear":2021,
+    "Country Budget":115000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "country":"NI",
+    "budgetYear":2021,
+    "Country Budget":3680930.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.443832,-23.442503 ]
+    },
+    "properties": {
+    "country":"PY",
+    "budgetYear":2021,
+    "Country Budget":4120000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "country":"VE",
+    "budgetYear":2021,
+    "Country Budget":64091
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.96288,20.593684 ]
+    },
+    "properties": {
+    "country":"IN",
+    "budgetYear":2021,
+    "Country Budget":23995.7793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.688046,32.427908 ]
+    },
+    "properties": {
+    "country":"IR",
+    "budgetYear":2021,
+    "Country Budget":2834819.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.345116,30.375321 ]
+    },
+    "properties": {
+    "country":"PK",
+    "budgetYear":2021,
+    "Country Budget":22808.69922
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "country":"AM",
+    "budgetYear":2021,
+    "Country Budget":2311084.59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.679291,33.223191 ]
+    },
+    "properties": {
+    "country":"IQ",
+    "budgetYear":2021,
+    "Country Budget":921776.3125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "country":"JO",
+    "budgetYear":2021,
+    "Country Budget":770706.9766
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721 ]
+    },
+    "properties": {
+    "country":"LB",
+    "budgetYear":2021,
+    "Country Budget":50746.76953
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.923255,21.512583 ]
+    },
+    "properties": {
+    "country":"OM",
+    "budgetYear":2021,
+    "Country Budget":821824
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815,34.802075 ]
+    },
+    "properties": {
+    "country":"SY",
+    "budgetYear":2021,
+    "Country Budget":330365.9063
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.516388,15.552727 ]
+    },
+    "properties": {
+    "country":"YE",
+    "budgetYear":2021,
+    "Country Budget":649983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.921327,-0.789275 ]
+    },
+    "properties": {
+    "country":"ID",
+    "budgetYear":2021,
+    "Country Budget":2687801.609
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.975766,4.210484 ]
+    },
+    "properties": {
+    "country":"MY",
+    "budgetYear":2021,
+    "Country Budget":1826484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774017,12.879721 ]
+    },
+    "properties": {
+    "country":"PH",
+    "budgetYear":2021,
+    "Country Budget":5100000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.727539,-8.874217 ]
+    },
+    "properties": {
+    "country":"TL",
+    "budgetYear":2021,
+    "Country Budget":918365.1016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058324 ]
+    },
+    "properties": {
+    "country":"VN",
+    "budgetYear":2021,
+    "Country Budget":97164.67188
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "country":"CN",
+    "budgetYear":2021,
+    "Country Budget":1927833.993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "country":"MN",
+    "budgetYear":2021,
+    "Country Budget":1847882.301
+    }
+  }
+]
+}
